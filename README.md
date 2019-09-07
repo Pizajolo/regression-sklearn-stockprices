@@ -1,5 +1,5 @@
 # regression-sklearn-stockprices
-Using the Scikit Learn library to predict stock prices as regression problem
+Using the Scikit Learn library to predict stock prices as regression problem.
 This is just trying different regression methods on stock data. With a model like this it's not possible to predict the future of the stock marked.
 If it would be that easy we all would be rich :D
 
